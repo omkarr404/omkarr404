@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0A66C2">Omkar Sawant</span></h1>
 
 <p align="center">
-  🚀 <strong>Full-Stack Developer</strong> | 🎧 Voice-Tech & AI Enthusiast | 📱 React Native Developer  
+  🚀 <strong>Full-Stack Developer</strong> | Cyber-Security Enthusiast | 📱 React Native Developer  
 </p>
 
 <p align="center">
