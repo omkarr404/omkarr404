@@ -93,9 +93,7 @@ I love building impactful digital solutions that empower users—especially in t
 ---
 
 ## 🎯 **What I’m Working On**
-- Voice-enabled bots for rural India  
 - Production-ready React Native apps  
-- AI summarization tools  
 - Full-stack systems with strong security practices  
 
 ---
