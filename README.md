@@ -1,262 +1,285 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:161B22,60:1F6FEB,100:388BFD&height=220&section=header&text=Omkar%20Sawant&fontSize=65&fontColor=E6EDF3&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=60&descSize=22&animation=fadeIn&fontAlignX=50" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Omkar%20Sawant&fontSize=72&fontAlignY=40&desc=Full-Stack%20%7C%20Mobile%20%7C%20API%20Developer&descAlignY=60&descSize=22&animation=twinkling&fontColor=fff"/>
+
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin-here">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:osomkar444@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/omkarr404">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=omkarr404&style=for-the-badge&color=brightgreen&label=Profile+Views"/>
+</div>
 
 <br/>
 
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-&nbsp;
-<a href="mailto:osomkar444@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%26+React+Native+Engineer+%F0%9F%93%B1;Node.js+%2B+FastAPI+Backend+Dev+%E2%9A%99%EF%B8%8F;Building+Scalable+Products+%F0%9F%8C%90" alt="Typing SVG" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=React+%26+React+Native+Developer+%F0%9F%93%B1;Full-Stack+Engineer+%7C+Node+%2B+FastAPI+%E2%9A%99%EF%B8%8F;Building+Scalable+Products+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F" />
 </div>
 
 <br/>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 👨‍💻 About Me
 
-```typescript
-const omkar: Developer = {
-  name:       "Omkar Janardan Sawant",
-  title:      "Full-Stack & Mobile Developer",
-  location:   "Kalyan, Maharashtra, India 🇮🇳",
-  education:  "B.Tech IT @ RAIT, D.Y. Patil University (CGPA: 7.98 / 10)",
-  experience: "SDE Intern @ Durwankur AI Labs Pvt. Ltd.",
+<div align="center">
 
-  techStack: {
-    mobile:    ["React Native", "Expo"],
-    frontend:  ["React.js", "HTML5", "CSS3"],
-    backend:   ["Node.js", "Express.js", "FastAPI"],
-    databases: ["MongoDB", "PostgreSQL", "Firebase", "Supabase"],
-    languages: ["TypeScript", "JavaScript", "Python", "Java"],
-    auth:      ["JWT", "Firebase Auth", "RBAC"],
-    ai:        ["Google Gemini API", "Computer Vision"],
-  },
+| | |
+|:---|:---|
+| 🎓 | **B.Tech IT** @ RAIT, D.Y. Patil University *(CGPA: 7.98/10)* |
+| 💼 | **SDE Intern** @ Durwankur AI Labs *(Dec 2025 – May 2026)* |
+| 📍 | Kalyan, Maharashtra, India |
+| 🔭 | Currently building **full-stack & cross-platform mobile apps** |
+| 🌱 | Exploring **AI integrations** with Google Gemini & Computer Vision |
+| ⚡ | Strong in **DSA, OOP, DBMS** & system design thinking |
+| 📬 | **osomkar444@gmail.com** |
+| 🤝 | Open to **Full-Time Roles**, **Freelance**, & **Open Source** |
 
-  currentFocus:  "Building production-grade full-stack & mobile applications",
-  openTo:        ["Full-Time Roles", "Freelance Projects", "Open Source Collaboration"],
-};
-```
-
-<br/>
-
----
-
-## 💼 Experience
-
-<table width="100%">
-  <tr>
-    <td width="60">
-      <img src="https://img.shields.io/badge/-AI-1F6FEB?style=for-the-badge" />
-    </td>
-    <td>
-      <strong>Software Developer Intern</strong> &nbsp;·&nbsp; <em>Durwankur AI Labs Pvt. Ltd., Navi Mumbai</em><br/>
-      <sub>📅 Dec 2025 – May 2026</sub>
-      <ul>
-        <li>Built production-grade web & mobile features using <strong>React.js, React Native, Node.js & TypeScript</strong> in an Agile/Scrum environment</li>
-        <li>Designed reusable UI components and integrated RESTful APIs for seamless frontend–backend communication</li>
-        <li>Implemented <strong>Firebase Authentication</strong> & <strong>Firestore real-time sync</strong>, significantly improving app performance and user experience</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ SafeMaha — Food Safety Complaint & Inspection Platform
+### 🛡️ SafeMaha
+**Food Safety Complaint & Inspection Platform**
 
-</div>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-> **Tech:** React Native (Expo) · FastAPI · PostgreSQL · SQLAlchemy · Supabase Storage · JWT · RBAC
+> Citizen grievance platform for reporting food safety violations with image evidence, real-time tracking, and role-based workflows for Citizens, FDA Officers & Admins.
 
-A **production-grade full-stack citizen grievance platform** for reporting food safety violations, with image evidence submission and real-time complaint tracking.
+- 🔐 **JWT Auth + RBAC** — 3-tier role system
+- 📸 **Image evidence** via Supabase Storage
+- ⚙️ **Automated workflows** — complaint → inspection → resolution
+- 📊 **Scalable REST APIs** with FastAPI + SQLAlchemy
 
-| Feature | Details |
-|--------|---------|
-| 🔐 **RBAC** | Citizen · FDA Officer · Administrator |
-| 📸 **Evidence** | Image-based submission via Supabase Storage |
-| ⚙️ **APIs** | Secure REST APIs with FastAPI + PostgreSQL + SQLAlchemy |
-| 📋 **Workflow** | Automated complaint assignment, inspection tracking & case resolution |
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/omkarr404/SafeMaha)
 
-[![View Repo](https://img.shields.io/badge/GitHub-SafeMaha-181717?style=for-the-badge&logo=github)](https://github.com/your-username/safemaha)
+</td>
+<td width="50%" valign="top">
 
----
+### 🌬️ AirSense Plus
+**Real-Time Air Quality Monitor**
 
-<div align="center">
-
-### 🌬️ AirSense Plus — Real-Time AQI Monitor
-
-</div>
-
-> **Tech:** React Native · Expo · REST APIs · Geospatial Services
-
-A **cross-platform mobile app** delivering real-time air quality data with location-based health alerts and pollutant analytics.
-
-| Feature | Details |
-|--------|---------|
-| 📍 **Geospatial** | Location-based personalized health alerts |
-| 🎨 **UI** | Intuitive color-coded AQI interface |
-| 📱 **Cross-Platform** | Seamless on both Android & iOS |
-
-[![View Repo](https://img.shields.io/badge/GitHub-AirSense_Plus-181717?style=for-the-badge&logo=github)](https://github.com/your-username/airsense-plus)
-
----
-
-<div align="center">
-
-### 🍽️ QuickOrder — QR-Based Restaurant SaaS
-
-</div>
-
-> **Tech:** React.js · Node.js · Express.js · MongoDB · Vite
-
-A **full-stack SaaS platform** enabling QR-based digital ordering with a real-time kitchen order management dashboard.
-
-| Feature | Details |
-|--------|---------|
-| 📊 **Dashboard** | Real-time live order tracking & kitchen management |
-| 🗃️ **Database** | Scalable MongoDB schemas for menus, orders & history |
-| ⚡ **Frontend** | Fast, modern interface powered by Vite + React |
-
-[![View Repo](https://img.shields.io/badge/GitHub-QuickOrder-181717?style=for-the-badge&logo=github)](https://github.com/your-username/quickorder)
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Backend & APIs
+> Cross-platform mobile app delivering real-time AQI monitoring with geospatial health alerts, color-coded pollutant analytics, and smooth performance on Android & iOS.
+
+- 📍 **Geospatial services** — precise location-based alerts
+- 🎨 **Color-coded AQI** — intuitive visual interface
+- 📱 **True cross-platform** — Android & iOS optimized
+- 📡 **Real-time data** via RESTful API integration
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/omkarr404/AirSensePlus)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ QuickOrder
+**QR-Based Restaurant SaaS**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Security & Auth
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+> Full-stack SaaS enabling QR-based digital ordering with a real-time kitchen dashboard, live order tracking, and scalable schema for menu & order management.
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+- 📲 **QR-based ordering** — zero friction for customers
+- 📊 **Live dashboard** — real-time kitchen & order tracking
+- 🗃️ **Scalable MongoDB** — menus, orders & analytics
+- ⚡ **Vite-powered frontend** — lightning fast experience
 
-### AI & ML
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F61?style=flat-square&logo=opencv&logoColor=white)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/omkarr404/QuickOrder)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Coming Soon...
+
+> Always building. Always shipping.
+
+- 🔨 Currently working on next side project
+- 🌐 Experimenting with **AI-powered features**
+- 📦 Contributing to **open source** tools
 
 <br/>
+
+[![All Repos](https://img.shields.io/badge/See_All_Projects-181717?style=for-the-badge&logo=github)](https://github.com/omkarr404?tab=repositories)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Omkar's+GitHub+Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="180"/>
+### ⚡ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br/><br/>
+### 📱 Frontend & Mobile
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" width="70%"/>
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br/><br/>
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+### 🔐 Auth & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🤖 AI & Vision
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkarr404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarr404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=omkarr404&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarr404&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph)](https://github.com/omkarr404)
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td>🎓</td>
-    <td>
-      <strong>B.Tech in Information Technology</strong><br/>
-      Ramrao Adik Institute of Technology, D.Y. Patil Deemed University, Navi Mumbai<br/>
-      <sub>📅 July 2022 – May 2026 &nbsp;|&nbsp; 🏆 CGPA: <strong>7.98 / 10</strong></sub><br/><br/>
-      <sub><strong>Coursework:</strong> Data Structures & Algorithms · DBMS · OS · Computer Networks · OOP · Software Engineering · Mobile App Development</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
+| 🏛️ Institution | 📚 Degree | 📅 Duration | 🏆 Score |
+|:---:|:---:|:---:|:---:|
+| Ramrao Adik Institute of Technology, D.Y. Patil University | B.Tech — Information Technology | July 2022 – May 2026 | **7.98 / 10 CGPA** |
+
+**Relevant Coursework:** `Data Structures & Algorithms` · `DBMS` · `Operating Systems` · `Computer Networks` · `OOP` · `Software Engineering` · `Mobile Application Development`
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<details>
+<summary>⚙️ One-time setup — click to see the GitHub Action</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo with this content, then go to **Actions → Run workflow** once:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: omkarr404
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkarr404/omkarr404/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omkarr404/omkarr404/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/omkarr404/omkarr404/output/github-snake.svg"/>
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 📬 Let's Connect
+### 💬 Let's Build Something Great Together
 
-*I'm always open to exciting opportunities, collaborations, and conversations!*
+*Full-Stack Developer · Mobile Engineer · API Architect*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osomkar444@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osomkar444@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarr404)
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388BFD,60:1F6FEB,100:0D1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
 
 </div>
